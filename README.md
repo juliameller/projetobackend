@@ -21,6 +21,13 @@ Este projeto consiste em um serviço simples de encurtamento de URLs desenvolvid
 * Spring Boot
 * Maven
 ---
+
+### APIs Utilizadas:
+
+* https://ulvis.net/developer.html
+* https://goqr.me/api/
+
+---
 ## Endpoints da API
 
 ### Gerar URL e QR Code 
