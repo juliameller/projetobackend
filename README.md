@@ -55,5 +55,9 @@ Este endpoint recebe como entrada uma URL longa e um nome para a customização 
   "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://ulvis.net/nomecustomizado"
 }
 ```
+`GET /encurtar`
+
+Este endpoint lista todas as respostas das requisições realizadas na forma de um JSON.
+
 ---
 
